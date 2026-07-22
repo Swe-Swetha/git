@@ -1,6 +1,6 @@
 # Welcome to GIT 
 
-Hello Guys, this is git here...
+Hello Guys, this is conflict branch here...
 
 
 # Hello, This is from conflict  
